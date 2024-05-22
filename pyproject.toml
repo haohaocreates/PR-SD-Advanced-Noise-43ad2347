@@ -1,0 +1,14 @@
+[project]
+name = "sd-advanced-noise"
+description = "Nodes: LatentGaussianNoise, MathEncode. An experimental custom node that generates latent noise directly by utilizing the linear characteristics of the latent space."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/city96/SD-Advanced-Noise"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "SD-Advanced-Noise"
+Icon = ""
